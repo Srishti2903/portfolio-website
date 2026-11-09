@@ -1,7 +1,7 @@
 
 live at **[srishtigangolly.com](https://srishtigangolly.com)**.
 
-It's a retro pixel "operating system": the homepage is a desktop with icons you can open (and drag around), every page is a window, and there's a mailbox where visitors can write a letter or send a bouquet.
+It's a retro pixel desktop: the homepage contains icons you can open (and drag around), every page is a window, and there's a mailbox where visitors can write a letter or send a bouquet.
 
 ## Pages
 
