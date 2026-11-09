@@ -44,20 +44,5 @@ archive/            old drafts and source images, not published
 .github/workflows/  the deploy workflow
 ```
 
-## Run it locally
-
-```bash
-cd portfolio
-python3 -m http.server 8000
-```
-
-Then open http://localhost:8000.
-
-## Publish
-
-Every push to `main` runs `.github/workflows/pages.yml`, which publishes the `portfolio/` folder to GitHub Pages. It's live a minute or two later. Changes usually go through a pull request first so they can be checked before they go live.
-
-## Still to do
-
 - **Mon Amour font:** the display font isn't uploaded yet, so titles use Fraunces.
 - **Share image:** `og.png` (1200×630) for link previews doesn't exist yet.
