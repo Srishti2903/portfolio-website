@@ -22,17 +22,3 @@ live at **[srishtigangolly.com](https://srishtigangolly.com)**.
 | Old portfolio | `v1/` | The previous version of the site, kept as is |
 
 `desktop.html` only forwards to the homepage, so older links keep working.
-
-## Folders
-
-```
-portfolio/          the website, published as srishtigangolly.com
-  img/site/         photos and artwork used by the pages
-  img/doodle.png    the doodle logo, also the favicon
-  js/srishti-os.js  the page runtime
-  docs/             the RSM case-competition deck (PDF)
-  v1/               the old portfolio
-  CNAME             points GitHub Pages at srishtigangolly.com
-archive/            old drafts and source images, not published
-.github/workflows/  the deploy workflow
-```
