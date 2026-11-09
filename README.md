@@ -21,15 +21,6 @@ It's a retro pixel "operating system": the homepage is a desktop with icons you 
 
 `desktop.html` only forwards to the homepage, so older links keep working.
 
-## How it's built
-
-Plain HTML, CSS and a little JavaScript. No framework and no build step.
-
-- **The mailbox** (`mailbox.html`) is a self-contained page. Letters are posted to [Formspree](https://formspree.io); add `?demo` to the address to try the whole flow without sending anything.
-- **Every other page** keeps its markup in a `<template id="page">` with `{{holes}}`, `<sc-if>` and `<sc-for>`, plus a small `class Component` that supplies the values. `js/srishti-os.js` turns that into the live page and re-renders it whenever the component calls `setState()`.
-- **Phones** (screens up to 560px wide) get their own tweaks in each page's `@media (max-width:560px)` block: a slightly smaller layout, dropdowns for the bouquet and prompt generator, and hold-to-move icons.
-- **Remembered on the visitor's device** (in `localStorage`): icon positions (`srishti-os-icons-v2`), where the welcome window was dragged on a phone (`srishti-os-welcome`) and its width on a computer (`srishti-os-welcome-size`). "tidy up" and double-clicking the window's corner grip reset them.
-
 ## Folders
 
 ```
@@ -43,6 +34,3 @@ portfolio/          the website, published as srishtigangolly.com
 archive/            old drafts and source images, not published
 .github/workflows/  the deploy workflow
 ```
-
-- **Mon Amour font:** the display font isn't uploaded yet, so titles use Fraunces.
-- **Share image:** `og.png` (1200×630) for link previews doesn't exist yet.
