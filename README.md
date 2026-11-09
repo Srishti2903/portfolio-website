@@ -1,10 +1,10 @@
 
 live at **[srishtigangolly.com](https://srishtigangolly.com)**.
 
-˚₊‧ welcome to my little retro pixel desktop ‧₊˚ ✿
-⋆ the homepage is full of icons you can open (and drag around!)
-⋆ every page is a tiny window to get to know me, my work, my projects & my thoughts
-⋆ there’s a mailbox where you can write me a letter or send a bouquet ✉︎ ♡
+˚₊‧ welcome to my little retro pixel desktop ‧₊˚ ✿.  
+⋆ the homepage is full of icons you can open (and drag around!)   
+⋆ every page is a tiny window to get to know me, my work, my projects & my thoughts.   
+⋆ there’s a mailbox where you can write me a letter or send a bouquet ✉︎ ♡.  
 
 ## Pages
 
